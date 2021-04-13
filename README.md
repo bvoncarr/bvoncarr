@@ -1,5 +1,4 @@
-### Hi 👋, I;m Brittney..
-
+### Hi 👋🏾 I;m Brittney..👩🏽‍🦱
 ![](banner.png)
 I'm from Atlanta, Ga, and I am a inspiring Full Stack Web Developer. I really enjoy languages and Framework JavaScript, Html, CSS, Node, and BootStrap.
 
