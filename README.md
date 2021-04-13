@@ -1,7 +1,7 @@
-### Hi there 👋, Brittney Carr
+### Hi 👋, I;m Brittney..
 
 ![](banner.png)
-I'm Brittney from Atlanta, Ga, and am a Full Stack Web Developer. I really enjoy languages and Framework JavaScript, Html, CSS, Node, and BootStrap.
+I'm from Atlanta, Ga, and I am a inspiring Full Stack Web Developer. I really enjoy languages and Framework JavaScript, Html, CSS, Node, and BootStrap.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
